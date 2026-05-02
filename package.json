@@ -1,0 +1,19 @@
+{
+  "name": "vibelock-demo-target",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^16.2.4",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "ai": "^6.0.174",
+    "@ai-sdk/openai": "^3.0.58"
+  },
+  "devDependencies": {
+    "typescript": "^5"
+  }
+}
